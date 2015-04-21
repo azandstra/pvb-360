@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 test bami
 kaas
 vlees
+=======
+test homo
+
+karel is gek
+>>>>>>> origin/master
